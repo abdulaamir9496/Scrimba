@@ -14,7 +14,7 @@ let person = {
 }
 
 function logData() {
-    console.log(`${person.name} is ${person.age} old and lives in ${person.country}`)
+    // console.log(`${person.name} is ${person.age} old and lives in ${person.country}`)
 };
 
-logData();
+// logData();
